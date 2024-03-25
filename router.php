@@ -22,7 +22,7 @@ set_exception_handler(function ($ex) {
 });
 
 const ROUTES = array(
-  '/'                             => 'pages/home.php',
+  '/'                             => 'pages/index.php',
   '/citations'                    => 'pages/citations.php',
   '/cooking-classes'                             => 'pages/cooking-classes.php',
   '/cooking-classes/confirmation'                             => 'pages/cooking-confirmation.php',
